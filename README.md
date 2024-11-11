@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Taejun Yun</h1>
-<h3 align="center">a student who dreams of becoming a developer.</h3>
+<h1 align="left">Hi 👋, I'm Taejun Yun</h1>
+<h3 align="left">a student who dreams of becoming a developer.</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
